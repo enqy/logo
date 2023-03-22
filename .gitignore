@@ -1,4 +1,6 @@
+!icons/*.png
+
 *.kra
 *.kra~
-*.png
+logo.png
 *.png~
